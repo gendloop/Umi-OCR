@@ -1,4 +1,4 @@
-@echo offf
+@echo off
 cd /d %~dp0
 set name=%~n0
 echo "%1"
